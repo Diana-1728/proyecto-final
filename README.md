@@ -1,4 +1,4 @@
-# PROYECTO-AWS-FINAL
+# PROYECTO-FINAL-AWS
 Computacion en la Nube
 Guía general para verificar la funcionalidad de la base de datos MYSQL y como conectarla en el entorno de AWS utilizando el framework serverless.
 1.	Iniciar sesión en la consola de AWS.
