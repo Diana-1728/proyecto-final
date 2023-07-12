@@ -26,7 +26,7 @@ Ingresamos: 1. Id de clave de acceso. 2. Clave de acceso secreta
 21.	Creamos un archivo index.html contiene el formulario para ingresar los datos del pedido.
 22.	Creamos un archivo style.css contiene la presentación y apariencia del formulario html.
 23.	Creamos un archivo processOrder.js controlador de la función AWS lambda que procesa y recibe los mensajes de la cola.
-24.	Ejecutamos el comando: serverless deploy, este se encarga de tomar la configuración definida en el archivo serverless.yml y demas archivos aqui realiza las acciones necesarias para desplegar en la nube.
+24.	Ejecutamos el comando: serverless deploy, este se encarga de tomar la configuración definida en el archivo serverless.yml y demas archivos aqui realiza las acciones necesarias para desplegar en la nube, ejecutamos este comando las veces que sea necesario para actualizar o cambiar los codigos en cada uno de los archivos.
 25.	Ejecutamos el comando: aws rds describe-db-security-groups --query ‘DBSecurityGroups[0].DBSecurityGroupId’ --region us-east-1 "DBSecurityGroups[0].DBSecurityGroupId", para obtener información sobre los grupos de seguridad de la instancia de la base de datos.
 26.	Verificamos que todo se haya creado correctamente en AWS.
 27.	Ejecutamos el comando: npm install serverless-mysql, instala un paquete en el proyecto en el que se utiliza las funciones y métodos que son proporcionados para interactuar con la base de datos.
