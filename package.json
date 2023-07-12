@@ -1,0 +1,17 @@
+{
+  "name": "proyecto-final-aws-serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1414.0",
+    "mysql2": "^3.5.1",
+    "serverless-mysql": "^1.5.5"
+  },
+  "description": ""
+}

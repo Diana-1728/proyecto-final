@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    margin-bottom: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.contenedor{
+    width: 40%;
+    height: auto;
+    background: rgb(249, 237, 222);
+    margin: 50px auto;
+    padding: 15px;
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: right;
+}
+
+body{
+    background: rgb(248, 248, 244);
+}
+
+input{
+    width: 50%;
+    font-size: 25px;
+    text-align: center;
+    margin:2px;
+    padding:2px;
+}
+
+input,btn{
+    background: white;
+}
+
