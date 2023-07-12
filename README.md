@@ -34,4 +34,5 @@ Ingresamos: 1. Id de clave de acceso. 2. Clave de acceso secreta
 29.	Ingresamos a nuestra administradora de base de datos e ingresamos los datos correctamente, aquí creamos nuestras tablas.
 30.	Ejecutamos el comando: node app.js, este cargara el archivo app.js y ejecutara el código que contiene para establecer una conexión con la base de datos.
 31.	Ingresamos al formulario de html y diligenciamos los datos, aquí la notificación será enviada a nuestro correo de verificación y saldrá el mensaje de la solicitud.
+    
 NOTA: Debemos de cambiar los datos y diligenciar con los datos correspondientes que fueron creados en AWS en nuestro usuario e ID de cuenta.
