@@ -36,3 +36,13 @@ Ingresamos: 1. Id de clave de acceso. 2. Clave de acceso secreta
 31.	Ingresamos al formulario de html y diligenciamos los datos, aquí la notificación será enviada a nuestro correo de verificación y saldrá el mensaje de la solicitud.
     
 NOTA: Debemos de cambiar los datos y diligenciar con los datos correspondientes que fueron creados en AWS en nuestro usuario e ID de cuenta.
+
+
+PROYECTO FINAL AWS
+Presentado a: Allan Pérez
+Presentado por: Paola Andrea Betancur
+                Diana Marcela Lengua
+Tecnología Sistemas Informáticos
+Computación en la Nube
+Quinto Semestre
+ 
