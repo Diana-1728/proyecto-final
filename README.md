@@ -41,8 +41,7 @@ NOTA: Debemos de cambiar los datos y diligenciar con los datos correspondientes 
 PROYECTO FINAL AWS --
 Presentado a: Allan Pérez --
 Presentado por: Paola Andrea Betancur y 
-Diana Marcela Lengua          
-Tecnología Sistemas Informáticos
-Computación en la Nube - 
+Diana Marcela Lengua -- Tecnología Sistemas Informáticos -- 
+Computación en la Nube --
 Quinto Semestre
  
