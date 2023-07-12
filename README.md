@@ -38,8 +38,8 @@ Ingresamos: 1. Id de clave de acceso. 2. Clave de acceso secreta
 NOTA: Debemos de cambiar los datos y diligenciar con los datos correspondientes que fueron creados en AWS en nuestro usuario e ID de cuenta.
 
 
-PROYECTO FINAL AWS - 
-Presentado a: Allan Pérez
+PROYECTO FINAL AWS --
+Presentado a: Allan Pérez --
 Presentado por: Paola Andrea Betancur y 
 Diana Marcela Lengua          
 Tecnología Sistemas Informáticos
